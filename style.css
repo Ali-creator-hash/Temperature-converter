@@ -1,0 +1,22 @@
+#myh1{
+    text-align: center;
+    color: rgb(4, 110, 231);
+}
+#myinput{
+    font-size: 1em;
+    border: 5px rgb(0, 89, 255) solid;
+    border-radius: 5px;
+}
+#mysubmit{
+    background-color: rgba(194, 8, 8, 0.952);
+    font-size: 1em;
+    color: antiquewhite;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#mysubmit:hover{
+    background-color: brown;
+}
+#div1{
+    text-align: center;
+}
